@@ -14,7 +14,7 @@ OPTION( USE_VTMLIB_VIDEO_CODEC    "Clone, build and use VTM video encoder and de
 OPTION( USE_FFMPEG_VIDEO_CODEC    "Clone, build and use FFMPEG video encoder and decoder"   FALSE )  # FFMPEG = 6                                                                                                 #UNKNOWN_CODEC = 7
 
 # Color conversion library:
-OPTION( USE_HDRTOOLS              "Clone, build and use HDRTools for color conversions"     FALSE )
+OPTION( USE_HDRTOOLS              "Clone, build and use HDRTools for color conversions"     TRUE )
 
 # Use HM optimized RDO
 OPTION( USE_HM_PCC_RDO            "Use HM optimized RDO (run \"./clear.sh all\" for each modification)" TRUE )

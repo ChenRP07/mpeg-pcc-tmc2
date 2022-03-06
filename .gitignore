@@ -74,3 +74,9 @@ log.txt
 /dependencies/jm19.0_app/
 /dependencies/SHM-12.4/
 /dependencies/VTM/
+exp1/
+nohup.out
+test.txt
+mpeg_datasets/
+psnr/
+result/
